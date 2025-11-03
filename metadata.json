@@ -1,0 +1,5 @@
+{
+  "name": "CDCFIB Recruitment Exam Prep",
+  "description": "An application to help candidates prepare for the CDCFIB recruitment examination, with learning materials and mock tests organized by agency (NSCDC, NCoS, NIS, FFS).",
+  "requestFramePermissions": []
+}
